@@ -10,7 +10,7 @@ Proyek TAS Dasar Dasar Pemrograman Web (c).
 | No | Nama | NIM |
 |----|------|-----|
 | 1 | Gunawan Wibi | 672025100 |
-| 2 | Afrizal Hilbran v.D | 672025105 |
+| 2 | Afrizal Hilbran V.D | 672025105 |
 
 ## Teknologi
 - C
