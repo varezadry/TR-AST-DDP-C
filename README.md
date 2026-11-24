@@ -2,24 +2,26 @@
 
 # Inventaris Gudang
 
-Program sederhana untuk mengelola data barang di gudang.
-Proyek TAS Dasar Dasar Pemrograman Web ().
+Program sederhana untuk mengelola sistem yang berisi fitur klinik, pola rumah, batuguntingkertas, dan kamus.
+Proyek TAS Dasar Dasar Pemrograman Web (c).
 
 ## Kelompok G30 SPPG
 | No | Nama | NIM |
 |----|------|-----|
 | 1 | Gunawan Wibi | 672025100 |
-| 2 | Afrizal Hilbran | 672025105 |
+| 2 | Afrizal Hilbran v.D | 672025105 |
 
 ## Teknologi
 - C
 - GitHub
 
 ## Fitur
-- Tambah barang (Create)
-- Tampil semua barang (Read)
-- Edit barang (Update)
-- Hapus barang (Delete)
+- Login
+- Menu Utama
+- Klinik
+- Pola Rumah
+- Batu Gunting Kertas
+- Kamus
 
 
 
