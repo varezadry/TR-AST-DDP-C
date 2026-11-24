@@ -77,14 +77,6 @@ void inisialisasiDataAwal() {
     jumlahUserTerdaftar = 3;
 }
 
-void clearScreen() {
-    #ifdef _WIN32
-        system("cls");
-    #else
-        system("clear");
-    #endif
-}
-
 void pressEnterToContinue() {
     printf("\nTekan Enter untuk melanjutkan...");
     int c;
