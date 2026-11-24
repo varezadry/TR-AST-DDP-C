@@ -6,7 +6,7 @@ Program sederhana untuk mengelola sistem yang berisi fitur klinik, pola rumah, b
 
 Proyek TAS Dasar Dasar Pemrograman Web (c).
 
-## Kelompok G30 SPPG
+## Kelompok
 | No | Nama | NIM |
 |----|------|-----|
 | 1 | Gunawan Wibi | 672025100 |
