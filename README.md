@@ -1,7 +1,5 @@
 # TR-AST-DDP-C
 
-# Inventaris Gudang
-
 Program sederhana untuk mengelola sistem yang berisi fitur klinik, pola rumah, batuguntingkertas, dan kamus.
 Proyek TAS Dasar Dasar Pemrograman Web (c).
 
