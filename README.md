@@ -3,17 +3,16 @@
 # Inventaris Gudang
 
 Program sederhana untuk mengelola sistem yang berisi fitur klinik, pola rumah, batuguntingkertas, dan kamus.
-
 Proyek TAS Dasar Dasar Pemrograman Web (c).
 
 ## Kelompok
 | No | Nama | NIM |
 |----|------|-----|
-| 1 | Gunawan Wibi | 672025100 |
+| 1 | Gunawan Wibi S | 672025100 |
 | 2 | Afrizal Hilbran V.D | 672025105 |
 
 ## Teknologi
-- C
+- VisualCode
 - GitHub
 
 ## Fitur
